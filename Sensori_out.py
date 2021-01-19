@@ -45,7 +45,7 @@ class Sensore():
 
 # Configurazione
 CLIENT_NAME = "sensori_mqtt_client"
-HOST = "gabrielezanni.it"
+HOST = "example.com"
 PORT = 1883
 TICK = 10 # in secondi, cadenza di rilevazione e invio dei valori.
 
